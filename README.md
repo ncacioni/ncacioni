@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███╗   ██╗ █████╗ ██╗  ██╗██╗   ██╗███████╗██╗
-████╗  ██║██╔══██╗██║  ██║██║   ██║██╔════╝██║
-██╔██╗ ██║███████║███████║██║   ██║█████╗  ██║
-██║╚██╗██║██╔══██║██╔══██║██║   ██║██╔══╝  ██║
-██║ ╚████║██║  ██║██║  ██║╚██████╔╝███████╗███████╗
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
-```
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Nahuel%20Cacioni&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
 
 ### Data Engineer · Data Analyst · AI Automation
 
