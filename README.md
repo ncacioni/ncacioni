@@ -1,16 +1,27 @@
-## Hi there 👋
+# Nahuel Cacioni
 
-<!--
-**ncacioni/ncacioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer | Data Analyst | AI Automation
 
-Here are some ideas to get you started:
+I am a data professional with experience in data engineering, analytics and automation.  
+My work focuses on building reliable data pipelines, optimizing data workflows and leveraging modern data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- Python
+- SQL
+- Snowflake
+- Airflow
+- dbt
+- AWS
+- Data Warehousing
+
+## Interests
+
+- Data Engineering
+- Machine Learning
+- AI Automation
+- Data Platforms
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/nahuelcacioni
