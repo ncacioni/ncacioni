@@ -7,6 +7,7 @@
 *Building reliable data pipelines and leveraging modern data platforms*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahuelcacioni)
+[![Email](https://img.shields.io/badge/Gmail-nahuelcacioni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuelcacioni@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ncacioni&style=for-the-badge&color=blueviolet)](https://github.com/ncacioni)
 
 </div>
@@ -49,9 +50,11 @@ nahuel = {
 **Data Warehouses & Platforms**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Cloud**
 
@@ -103,7 +106,14 @@ nahuel = {
 | 🏗️ **Data Engineering** | Designing pipelines that scale without breaking |
 | 🤖 **AI Automation** | Using LLMs to automate repetitive data workflows |
 | 📐 **Machine Learning** | Bringing ML into production data environments |
-| ☁️ **Data Platforms** | Modern stack: Snowflake, dbt, Airflow, AWS |
+| ☁️ **Data Platforms** | Modern stack: Snowflake, dbt, Airflow, AWS, Databricks, Azure |
+
+---
+
+## 🎓 Education
+
+![Data Science](https://img.shields.io/badge/Universidad_Siglo_21-B.S._Data_Science_-6A0DAD?style=flat-square&logoColor=white)
+![Laws](https://img.shields.io/badge/Universidad_Siglo_21-Bachelor_of_Laws_-2C3E50?style=flat-square&logoColor=white)
 
 ---
 
