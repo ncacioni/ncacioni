@@ -42,6 +42,7 @@ nahuel = {
 **Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -83,13 +84,14 @@ nahuel = {
 
 ## 📊 Data Flow (how I think about problems)
 ```
-  Raw Sources          Transform            Serve
-  ───────────          ─────────            ─────
+  Raw Sources          Ingest & Store          Transform           Serve
+  ───────────          ──────────────          ─────────           ─────
   APIs  ──────┐
-              ├──▶  [ Airflow ]  ──▶  [ dbt ] ──▶ [ Snowflake ] ──▶ 📈 Insights
+              ├──▶  [ Airflow / ADF ]  ──▶  [ dbt ]     ──▶ [ Snowflake ] ──▶ 📈 Insights
   DBs   ──────┤
-              └──▶  [ AWS S3  ]  ──▶ [ Python ]──▶ [ Dashboards ]──▶ 🤖 AI Apps
-  Files ──────┘
+              ├──▶  [ AWS S3 / ADLS ]  ──▶  [ Python ]  ──▶ [ Dashboards ]──▶ 🤖 AI Apps
+  Files ──────┤
+              └──▶  [ Databricks    ]  ──▶  [ PySpark ]  ──▶ [ ML / Delta ] ──▶ 🔬 Models
 ```
 
 ---
