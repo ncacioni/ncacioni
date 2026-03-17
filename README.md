@@ -111,6 +111,7 @@ nahuel = {
 ![Databricks DA](https://img.shields.io/badge/Databricks-Data_Analyst_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Foundations-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SnowPro Core](https://img.shields.io/badge/Snowflake-SnowPro_Core-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
