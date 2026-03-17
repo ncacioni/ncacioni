@@ -14,7 +14,6 @@
 ---
 
 ## 🗂️ About me
-
 ```python
 nahuel = {
     "role":       ["Data Engineer", "Data Analyst", "AI Automation"],
@@ -23,6 +22,16 @@ nahuel = {
     "currently":  "Exploring AI-powered data workflows 🤖",
 }
 ```
+
+---
+
+## 💼 Experience
+
+- 🏢 **9+ years in IT**, with hands-on experience across data engineering, analytics, and technical leadership in large enterprise environments.
+- 🔄 Led end-to-end **ELT/ETL pipeline design** using Snowflake, Databricks, dbt, Airflow and AWS.
+- 📊 Built **BI solutions and dashboards** in Power BI and Tableau for executive-level decision-making.
+- 🤖 Integrated **LLMs and AI automation** into production data workflows using Python and cloud-native tools.
+- 🌐 Worked across **finance, legal and tech sectors**, collaborating with cross-functional and international teams.
 
 ---
 
@@ -69,7 +78,6 @@ nahuel = {
 ---
 
 ## 📊 Data Flow (how I think about problems)
-
 ```
   Raw Sources          Transform            Serve
   ───────────          ─────────            ─────
@@ -90,6 +98,22 @@ nahuel = {
 | 🤖 **AI Automation** | Using LLMs to automate repetitive data workflows |
 | 📐 **Machine Learning** | Bringing ML into production data environments |
 | ☁️ **Data Platforms** | Modern stack: Snowflake, dbt, Airflow, AWS |
+
+---
+
+## 🏅 Certifications
+
+![Databricks DE](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Databricks DA](https://img.shields.io/badge/Databricks-Data_Analyst_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Foundations-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PMP](https://img.shields.io/badge/JPMorgan-PMP%2FCAPM_Prep-0066CC?style=flat-square&logo=jpmorgan&logoColor=white)
+
+---
+
+## 🌐 Languages
+
+![Spanish](https://img.shields.io/badge/Spanish-Native-green?style=flat-square)
+![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square)
 
 ---
 
