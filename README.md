@@ -1,6 +1,6 @@
 <div align="center">
     
-[![terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF99&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%24+whoami;Nahuel+Gustavo+Cacioni;Data+Engineer+%7C+Data+Analyst+%7C+AI+Automation;%24+cat+stack.txt;Snowflake+%7C+dbt+%7C+Airflow+%7C+AWS+%7C+Azure+%7C+Databricks;%24+echo+%22Building+pipelines+that+scale%22;Building+pipelines+that+scale+%E2%9C%94)](https://github.com/ncacioni)
+[![terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF99&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=200&lines=%24+whoami;Nahuel+Gustavo+Cacioni;Data+Engineer+%7C+Data+Analyst+%7C+AI+Automation;%24+cat+stack.txt;Snowflake+%7C+dbt+%7C+Airflow+%7C+AWS+%7C+Azure+%7C+Databricks;%24+echo+%22Building+pipelines+that+scale%22;Building+pipelines+that+scale+%E2%9C%94)](https://github.com/ncacioni)
 
 ### Data Engineer · Data Analyst · AI Automation
 
