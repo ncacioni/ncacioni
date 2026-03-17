@@ -110,7 +110,7 @@ nahuel = {
 ![Databricks DE](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Databricks DA](https://img.shields.io/badge/Databricks-Data_Analyst_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Foundations-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PMP](https://img.shields.io/badge/JPMorgan-PMP%2FCAPM_Prep-0066CC?style=flat-square&logo=jpmorgan&logoColor=white)
+![SnowPro Core](https://img.shields.io/badge/Snowflake-SnowPro_Core-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 ---
 
